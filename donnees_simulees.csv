@@ -1,4 +1,4 @@
-UFR,Filière,Sexe,Niveau,Fréquence d'utilisation,Durée par session (min),Impact sur la motivation,Moyenne des notes,Moyenne avant l'accès,Moyenne actuelle,Temps d'étude/semaine (h),Usage de la connexion,Statut de réussite
+UFR,Filière,Sexe,Niveau,Fréquence d'utilisation,Durée par session (min),Impact sur la motivation,Moyenne actuelle,Moyenne avant l'accès,Moyenne après l'accès,Temps d'étude/semaine (h),Usage de la connexion,Statut de réussite
 SEG,HA,Feminin,L3,Occasionnelle,179,Augmenté,7.131485546108433,10.1862775393056,16.147228439894814,7,Réseaux sociax,1
 ST,SVT,Feminin,L2,Quotidienne,145,Diminué,3.547731175612114,12.618551705653298,16.408860650379964,11,Réseaux sociax,1
 LSH,HA,Masculin,L2,Quotidienne,10,Augmenté,15.392803378373404,4.821350780511035,12.65735501461803,8,Autres,1
